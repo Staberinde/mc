@@ -82,7 +82,7 @@ skin=default
 [Layout]
 message_visible=1
 keybar_visible=1
-xterm_title=1
+xterm_title=0
 output_lines=0
 command_prompt=1
 menubar_visible=1
@@ -95,7 +95,7 @@ top_panel_size=1
 
 [Misc]
 timeformat_recent=%e.%m %H:%M
-timeformat_old=%e.%m.%Y 
+timeformat_old=%e.%m.%Y
 ftp_proxy_host=gate
 ftpfs_password=anonymous@
 display_codepage=UTF-8
@@ -106,7 +106,7 @@ clipboard_paste=
 
 [Colors]
 base_color=
-screen-256color=
+screen-256color=1
 color_terminals=
 
 [Panels]
